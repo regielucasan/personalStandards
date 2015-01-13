@@ -1,0 +1,6 @@
+Naming Conventions in laravel should be the following:
+ Controllers 
+  - First Letter of each word is capital, No Spaces.
+  - Maximum of 2 words per controller name.
+  - if project is comples segregate controller by putting them inside the folder.
+  
